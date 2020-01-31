@@ -1,6 +1,8 @@
 # Overview
-陰となる面を選択するBlenderアドオンです。地色マテリアルと陰色マテリアルを設定する際に使用します。  
-Blender addon to select faces shaded by direct sun light. And you can set base-color material and shade-color material.  
+陰となる面を選択するBlenderアドオンです。  
+地色マテリアルと陰色マテリアルで陰影を塗り分ける際に使用します。マテリアルの塗り分けで陰影を付けると高解像度テクスチャを保つことが可能です。  
+Blender addon to select faces shaded by direct sun light.  
+And you can set base-color material and shade-color material. Such "shading" by material preserve high resolution textures.  
 ![](https://user-images.githubusercontent.com/20571538/73579723-99a28600-44c6-11ea-843f-242f925ca37f.png)  
 # How to use
 ![](https://user-images.githubusercontent.com/20571538/73579717-98715900-44c6-11ea-9ce0-f911901cdd79.png)  
