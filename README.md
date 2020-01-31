@@ -1,2 +1,10 @@
-# select_shade
-Blender addon to select faces shaded by direct sun light.
+# Overview
+陰となる面を選択するBlenderアドオンです。地色マテリアルと陰色マテリアルを設定する際に使用します。  
+Blender addon to select faces shaded by direct sun light. And you can set base-color material and shade-color material.  
+![](https://user-images.githubusercontent.com/20571538/73579723-99a28600-44c6-11ea-843f-242f925ca37f.png)  
+# How to use
+![](https://user-images.githubusercontent.com/20571538/73579717-98715900-44c6-11ea-9ce0-f911901cdd79.png)  
+![](https://user-images.githubusercontent.com/20571538/73579718-9909ef80-44c6-11ea-8e7d-479941fb20a7.png)  
+![](https://user-images.githubusercontent.com/20571538/73579719-9909ef80-44c6-11ea-9b05-67f5cad86685.png)  
+![](https://user-images.githubusercontent.com/20571538/73579720-9909ef80-44c6-11ea-8380-1ce4251e855a.png)  
+![](https://user-images.githubusercontent.com/20571538/73579722-9909ef80-44c6-11ea-9404-bd282ad783e5.png)  
